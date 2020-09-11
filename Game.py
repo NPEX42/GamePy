@@ -1,3 +1,10 @@
 from Engine import *
 
-OpenWindow(1080,720,"Hello PyGame!")
+mainWindow = Window();
+
+mainWindow.OpenWindow(480,480,"Hello PyGame!")
+
+while mainWindow.UpdateWindow():
+	pass
+
+mainWindow.CloseWindow()
