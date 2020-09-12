@@ -24,6 +24,12 @@ class Window:
 		pygame.quit();
 		pass
 
+class Renderer:
+	def __init__(self):
+		
+
+	def 
+
 
 class GameState:
 	def Enter(self):
