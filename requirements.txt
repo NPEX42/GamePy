@@ -1,0 +1,3 @@
+#Core Libs
+pygame
+pyopengl
